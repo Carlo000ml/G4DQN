@@ -1,4 +1,4 @@
-# RL4PG - Reinforcement Learning for Power Grids
+# G4DQN - Graph Distributed Deep Double Dueling Q-Network 
 
 This repository contains the code for my Master's thesis project **"Graph-Based Multi-Agent Reinforcement Learning for Power Grid Control"** as part of the Master degree in Computer Science and Engineering at Politecnico di Milano.
 
