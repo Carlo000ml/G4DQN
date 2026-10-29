@@ -23,7 +23,7 @@ The framework has been tested on the `l2rpn_case14_sandbox` environment within G
 ## 🗂️ Repository Structure
 
 ```
-RL4PG/
+G4DQN/
 │
 ├── RL4pg/                        # Main library with all modules
 │   ├── Initialize_Env.py        # Set Grid2Op paths here
@@ -72,8 +72,8 @@ RL4PG/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Carlo000ml/RL4PG.git
-cd RL4PG
+git clone https://github.com/Carlo000ml/G4DQN.git
+cd G4DQN
 ```
 
 ### 2. Install dependencies
